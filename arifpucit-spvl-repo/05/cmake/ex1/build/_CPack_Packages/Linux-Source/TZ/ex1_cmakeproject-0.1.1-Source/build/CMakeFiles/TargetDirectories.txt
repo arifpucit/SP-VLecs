@@ -1,0 +1,9 @@
+/home/arif/spvl/05/cmake/ex1/build/CMakeFiles/install/strip.dir
+/home/arif/spvl/05/cmake/ex1/build/CMakeFiles/install/local.dir
+/home/arif/spvl/05/cmake/ex1/build/CMakeFiles/install.dir
+/home/arif/spvl/05/cmake/ex1/build/CMakeFiles/list_install_components.dir
+/home/arif/spvl/05/cmake/ex1/build/CMakeFiles/rebuild_cache.dir
+/home/arif/spvl/05/cmake/ex1/build/CMakeFiles/myexe.dir
+/home/arif/spvl/05/cmake/ex1/build/CMakeFiles/package.dir
+/home/arif/spvl/05/cmake/ex1/build/CMakeFiles/package_source.dir
+/home/arif/spvl/05/cmake/ex1/build/CMakeFiles/edit_cache.dir

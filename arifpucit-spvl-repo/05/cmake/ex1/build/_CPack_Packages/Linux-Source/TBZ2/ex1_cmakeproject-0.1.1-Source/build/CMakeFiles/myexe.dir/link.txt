@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/myexe.dir/src/prog1.c.o  -o myexe  -L/home/arif/spvl/05/cmake/ex1/lib -Wl,-rpath,/home/arif/spvl/05/cmake/ex1/lib: -lc -Wl,-Bstatic -larifmath -Wl,-Bdynamic 
